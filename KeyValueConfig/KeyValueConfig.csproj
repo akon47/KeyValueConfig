@@ -12,6 +12,7 @@
     <PackageIconUrl />
     <RepositoryUrl>https://github.com/akon47/KeyValueConfig</RepositoryUrl>
     <PackageReleaseNotes>first release</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/akon47/KeyValueConfig</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
