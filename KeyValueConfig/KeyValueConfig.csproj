@@ -1,8 +1,8 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Kim Hwan</Authors>
     <Company>Kim Hwan</Company>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
@@ -10,6 +10,8 @@
     <Description>This is a library that allows you to save or load key-value data as a file</Description>
     <PackageIcon>logo.png</PackageIcon>
     <PackageIconUrl />
+    <RepositoryUrl>https://github.com/akon47/KeyValueConfig</RepositoryUrl>
+    <PackageReleaseNotes>first release</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
