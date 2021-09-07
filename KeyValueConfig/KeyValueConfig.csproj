@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Authors>Kim Hwan</Authors>
+    <Company>Kim Hwan</Company>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Xml Config Configuration</PackageTags>
+    <Description>This is a library that allows you to save or load key-value data as a file</Description>
+    <PackageIcon>logo.png</PackageIcon>
+    <PackageIconUrl />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="logo.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
